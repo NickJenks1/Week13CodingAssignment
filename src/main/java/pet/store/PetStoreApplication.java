@@ -6,6 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class PetStoreApplication {
 
+	// Method that runs the Spring application
 	public static void main(String[] args) {
 		SpringApplication.run(PetStoreApplication.class, args);
 
